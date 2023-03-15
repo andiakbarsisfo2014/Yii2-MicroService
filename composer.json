@@ -2,6 +2,8 @@
     "name": "andiakbarsisfo2014/yii2-microservice",
     "description": "Simple Yii2-MicroServices Useless-Dev",
     "keywords": ["yii2", "framework", "microservices"],
+    "type": "project",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=7.4",
         "yiisoft/yii2": "~2.0.0"
