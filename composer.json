@@ -1,5 +1,5 @@
 {
-    "name": "yii2-microservices",
+    "name": "useless-dev/yii2-microservices",
     "description": "Simple Yii2-MicroServices Useless-Dev",
     "keywords": ["yii2", "framework", "microservices"],
     "require": {
