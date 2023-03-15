@@ -1,6 +1,7 @@
 {
     "name": "Yii2-MicroServices",
     "description": "Simple Yii2-MicroServices Useless-Dev",
+    "keywords": ["yii2", "framework", "microservices"],
     "require": {
         "php": ">=7.4",
         "yiisoft/yii2": "~2.0.0"
